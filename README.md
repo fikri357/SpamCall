@@ -15,14 +15,6 @@ Kode Ini Diciptakan Untuk Mengeprank Temen Kalian Saat Mabar 🤣
 Inggris : 
 
 This Code Was Created So That Your Friends Are Upset When Playing Games 🤣
-
-```
-
-# Tutorial
-
-```
-Youtube :
-https://youtu.be/sHCKdJ0jeRg
 ```
 
 # Penginstalan
@@ -37,7 +29,7 @@ $ pkg install python2
 
 $ pip2 install requests
 
-$ git clone https://github.com/Fukur0-3XP/SpamCall
+$ git clone https://github.com/Fikri_stj/SpamCall
 
 $ cd SpamCall
 
@@ -49,7 +41,7 @@ $ sudo apt install python-pip
 
 $ pip2 install requests
 
-$ git clone https://github.com/Fukur0-3XP/SpamCall
+$ git clone https://github.com/Fikri_stj/SpamCall
 
 $ cd SpamCall
 
@@ -61,13 +53,10 @@ $ python2 Call.py
 
 ```
 
-Creator : ./FUKUR0-3XP
+Creator : ./Fikri_stj
 
 Team : Black Coders Anonymous Satanic Exploiter Team
 
-Instagram : ricko.net_
-
-Email : fukur0.internet@gmail.com
 
 ```
 
