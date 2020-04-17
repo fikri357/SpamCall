@@ -33,7 +33,7 @@ def banner():
 \____/| .__/ \__,_|_| |_| |_|  \____/\__,_|_|_|
       | |                                      
       |_|                                      
-                '''+W+'Creator : ./Fukur0\n\t\t     YT : Jejak Cyber')
+                '''+W+'Creator : ./Fikri\n\t\t     YT : Jejak Cyber')
                 
 def tiks(s):
 	for x in s + '\n':
